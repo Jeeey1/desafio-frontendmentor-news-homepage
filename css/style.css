@@ -113,7 +113,7 @@ img {
 }
 
 .content-bright h1 {
-  font-size: 3rem;
+  font-size: 3.4rem;
   padding-right: 10px;
   font-weight: 800;
   margin-top: 20px;
@@ -269,5 +269,5 @@ img {
     display: none;
   }
 
-  
+
 }
